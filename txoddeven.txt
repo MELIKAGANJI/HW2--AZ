@@ -1,0 +1,2 @@
+hi sir!
+this code helps you to identify the number is odd or even...! 
